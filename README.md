@@ -23,14 +23,13 @@
  
    <br/>
    
-
- 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  #### :pencil2: Study log
+  #### :pencil2: Study log 
+
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoonsbory&color=dark)](https://velog.io/@hoonsbory)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoonsbory&color=white&tag=canvas)](https://velog.io/@hoonsbory)
 </div>
 </div>
 <!--
