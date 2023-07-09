@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FrontEnd%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20I'm%20Hoonsbory)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FrontEnd%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Hello%20I'm%20Hoonsbory)
   
 ####  :clipboard: I can use...
  <br/>
