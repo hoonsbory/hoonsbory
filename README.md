@@ -29,7 +29,7 @@
   #### :pencil2: Study log 
 
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoonsbory&color=white&tag=canvas)](https://velog.io/@hoonsbory)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoonsbory&color=white&tag=canvas)](https://velog.io/@hoonsbory/offscreencanvas)
 </div>
 </div>
 <!--
