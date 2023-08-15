@@ -28,7 +28,7 @@
   #### :pencil2: Study log 
 
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoonsbory&color=white)](https://velog.io/@hoonsbory/eventloop)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hoonsbory&tag=browser)](https://velog.io/@hoonsbory/eventloop)
 </div>
 </div>
 <!--
