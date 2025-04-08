@@ -1,8 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FrontEnd%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Hello%20I'm%20Hoonsbory)
-  
-####  :clipboard: I can use...
+####  :clipboard: I can use
  <br/>
   
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
@@ -16,7 +14,7 @@
  
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-
+<img src="https://img.shields.io/badge/Intellij-6200ff?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 
 
